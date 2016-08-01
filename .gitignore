@@ -16,6 +16,12 @@ html
 *.toc
 *.vrb
 *.log
+## Sublime Text: latextool, latexmk
+*.dvi
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
 
 #VIM files
 *.sw?
